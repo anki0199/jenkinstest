@@ -47,6 +47,13 @@
     <version>5.8.0</version> <!-- Use the latest version available -->
     <scope>test</scope>
 </dependency>
+<repositories>
+    <repository>
+        <id>central</id>
+        <url>https://repo.maven.apache.org/maven2</url>
+    </repository>
+</repositories>
+
 
   </dependencies>
 </project>
